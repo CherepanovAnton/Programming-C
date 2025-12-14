@@ -21,3 +21,7 @@ void bubbleSort(int arr[], int n) {
     }
 }
 // Комментарий
+int main() {
+    int a[] = {4, 2};
+    bubbleSort(a, 3); 
+}
