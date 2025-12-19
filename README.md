@@ -1,4 +1,4 @@
 # Программирование на C
-![alt text](<4vfjr9e1wuey_gif (1400×600).gif>)
+![alt text](<./gifs/4vfjr9e1wuey_gif (1400×600).gif>)
 - Длительность курса с 01.09.2025 - ...
  
