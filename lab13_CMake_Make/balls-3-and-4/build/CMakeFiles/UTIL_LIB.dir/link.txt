@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libUTIL_LIB.so -o libUTIL_LIB.so CMakeFiles/UTIL_LIB.dir/src/FuncLab12.c.o 

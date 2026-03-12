@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libBACKGROUND_LIB.so -o libBACKGROUND_LIB.so CMakeFiles/BACKGROUND_LIB.dir/background.o  -lPIPES_LIB 

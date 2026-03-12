@@ -1,0 +1,4 @@
+/home/stud1/GitHub/Programming-C/lab13_CMake_Make/4/build/CMakeFiles/UTIL_LIB.dir
+/home/stud1/GitHub/Programming-C/lab13_CMake_Make/4/build/CMakeFiles/main.dir
+/home/stud1/GitHub/Programming-C/lab13_CMake_Make/4/build/CMakeFiles/edit_cache.dir
+/home/stud1/GitHub/Programming-C/lab13_CMake_Make/4/build/CMakeFiles/rebuild_cache.dir

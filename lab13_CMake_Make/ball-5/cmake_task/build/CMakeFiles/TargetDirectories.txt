@@ -1,0 +1,9 @@
+/home/stud1/GitHub/Programming-C/lab13_CMake_Make/C-Programming/cmake_task/build/CMakeFiles/main.dir
+/home/stud1/GitHub/Programming-C/lab13_CMake_Make/C-Programming/cmake_task/build/CMakeFiles/edit_cache.dir
+/home/stud1/GitHub/Programming-C/lab13_CMake_Make/C-Programming/cmake_task/build/CMakeFiles/rebuild_cache.dir
+/home/stud1/GitHub/Programming-C/lab13_CMake_Make/C-Programming/cmake_task/build/pipes/CMakeFiles/PIPES_LIB.dir
+/home/stud1/GitHub/Programming-C/lab13_CMake_Make/C-Programming/cmake_task/build/pipes/CMakeFiles/edit_cache.dir
+/home/stud1/GitHub/Programming-C/lab13_CMake_Make/C-Programming/cmake_task/build/pipes/CMakeFiles/rebuild_cache.dir
+/home/stud1/GitHub/Programming-C/lab13_CMake_Make/C-Programming/cmake_task/build/background/CMakeFiles/BACKGROUND_LIB.dir
+/home/stud1/GitHub/Programming-C/lab13_CMake_Make/C-Programming/cmake_task/build/background/CMakeFiles/edit_cache.dir
+/home/stud1/GitHub/Programming-C/lab13_CMake_Make/C-Programming/cmake_task/build/background/CMakeFiles/rebuild_cache.dir

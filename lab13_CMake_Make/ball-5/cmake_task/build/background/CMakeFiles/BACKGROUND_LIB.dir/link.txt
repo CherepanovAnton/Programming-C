@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libBACKGROUND_LIB.so -o libBACKGROUND_LIB.so CMakeFiles/BACKGROUND_LIB.dir/background.c.o  -Wl,-rpath,/home/stud1/GitHub/Programming-C/lab13_CMake_Make/C-Programming/cmake_task/build/pipes ../pipes/libPIPES_LIB.so 

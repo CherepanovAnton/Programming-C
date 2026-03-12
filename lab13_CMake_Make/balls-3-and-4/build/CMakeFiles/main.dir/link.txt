@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/main.dir/src/main.c.o -o main  -Wl,-rpath,/home/stud1/GitHub/Programming-C/lab13_CMake_Make/4/build libUTIL_LIB.so 
