@@ -1,0 +1,5 @@
+/home/chere/Programming-C/lab18_tests/build/CMakeFiles/factorial.dir
+/home/chere/Programming-C/lab18_tests/build/CMakeFiles/tests.dir
+/home/chere/Programming-C/lab18_tests/build/CMakeFiles/test.dir
+/home/chere/Programming-C/lab18_tests/build/CMakeFiles/edit_cache.dir
+/home/chere/Programming-C/lab18_tests/build/CMakeFiles/rebuild_cache.dir

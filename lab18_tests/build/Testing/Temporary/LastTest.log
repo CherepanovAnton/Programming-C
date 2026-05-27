@@ -1,0 +1,48 @@
+Start testing: May 16 08:11 +07
+----------------------------------------------------------
+1/3 Testing: DefaulUse
+1/3 Test: DefaulUse
+Command: "/home/chere/Programming-C/lab18_tests/build/tests" "DefaultUse"
+Directory: /home/chere/Programming-C/lab18_tests/build
+"DefaulUse" start time: May 16 08:11 +07
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DefaulUse" end time: May 16 08:11 +07
+"DefaulUse" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/3 Testing: NegativeDgt
+2/3 Test: NegativeDgt
+Command: "/home/chere/Programming-C/lab18_tests/build/tests" "NegativeDgt"
+Directory: /home/chere/Programming-C/lab18_tests/build
+"NegativeDgt" start time: May 16 08:11 +07
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NegativeDgt" end time: May 16 08:11 +07
+"NegativeDgt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/3 Testing: Overflow
+3/3 Test: Overflow
+Command: "/home/chere/Programming-C/lab18_tests/build/tests" "Overflow"
+Directory: /home/chere/Programming-C/lab18_tests/build
+"Overflow" start time: May 16 08:11 +07
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Overflow" end time: May 16 08:11 +07
+"Overflow" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 16 08:11 +07
