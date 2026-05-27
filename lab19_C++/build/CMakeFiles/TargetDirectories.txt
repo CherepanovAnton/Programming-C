@@ -1,3 +1,0 @@
-/home/chere/Programming-C/lab19_C++/C-Programming/build/CMakeFiles/paint.dir
-/home/chere/Programming-C/lab19_C++/C-Programming/build/CMakeFiles/edit_cache.dir
-/home/chere/Programming-C/lab19_C++/C-Programming/build/CMakeFiles/rebuild_cache.dir
