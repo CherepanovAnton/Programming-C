@@ -13,9 +13,10 @@
 - Веб-интерфейс на Flask (localhost:5000)
 - Модульные тесты (pytest + pytest-check)
 
-## Установка
+## Установка и запуск
 
 ```bash
 git clone https://github.com/CherepanovAntonProgramming-C.git
 cd MyFinance
 pip install -r requirements.txt
+python app.py
